@@ -1,0 +1,7 @@
+{
+    "/employees/getAll" : "/employees",
+    "/employees/get/:id" :"/employees/:id",
+    "/employees/create":"/employees",
+    "/employees/updated/:id" :"/employees/:id",
+    "/employees/delete/:id" :"/employees/:id"
+}
